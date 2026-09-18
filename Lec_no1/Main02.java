@@ -1,6 +1,5 @@
-package project;
-
-import project.Roommate;
+package SuperX_lec.Lec_no1;
+import SuperX_lec.Lec_no1.Roommate;
 
 public class Main02 {
    

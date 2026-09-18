@@ -1,4 +1,4 @@
-package project;
+package SuperX_lec.Lec_no1;
 public class Employee{
     public int empId;
     public String empName;

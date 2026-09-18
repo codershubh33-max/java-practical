@@ -1,5 +1,5 @@
-package project;
-import  project.Employee;
+package SuperX_lec.Lec_no1;
+import SuperX_lec.Lec_no1.Employee;
 
 public class Main {
     public static void main(String[] args) {
